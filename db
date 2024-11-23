@@ -1,0 +1,14 @@
+{
+ chausettes: [
+        {
+          title: "Chausette 1",
+          description: "A comfortable and stylish sock.",
+          imageUrl: "/assets/your-image.jpg",
+        },
+        {
+          title: "Chausette 2",
+          description: "Perfect for any occasion.",
+          imageUrl: "/assets/your-image.jpg",
+        },
+      ],
+}
